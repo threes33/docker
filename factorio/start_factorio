@@ -1,0 +1,1 @@
+#docker run  -p 34197:34197/udp -v /opt/factorio/saves:/opt/factorio/saves -i factorio
